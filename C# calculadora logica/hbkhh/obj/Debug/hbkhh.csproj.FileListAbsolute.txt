@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\hbkhh\hbkhh\bin\Debug\hbkhh.exe.config
+C:\Users\pc\source\repos\hbkhh\hbkhh\bin\Debug\hbkhh.exe
+C:\Users\pc\source\repos\hbkhh\hbkhh\bin\Debug\hbkhh.pdb
+C:\Users\pc\source\repos\hbkhh\hbkhh\obj\Debug\hbkhh.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\hbkhh\hbkhh\obj\Debug\hbkhh.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\hbkhh\hbkhh\obj\Debug\hbkhh.exe
+C:\Users\pc\source\repos\hbkhh\hbkhh\obj\Debug\hbkhh.pdb
+C:\Users\pc\Documents\Projectos\Calculadoras\C# calculadora logica\hbkhh\bin\Debug\hbkhh.exe.config
+C:\Users\pc\Documents\Projectos\Calculadoras\C# calculadora logica\hbkhh\bin\Debug\hbkhh.exe
+C:\Users\pc\Documents\Projectos\Calculadoras\C# calculadora logica\hbkhh\bin\Debug\hbkhh.pdb
+C:\Users\pc\Documents\Projectos\Calculadoras\C# calculadora logica\hbkhh\obj\Debug\hbkhh.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Projectos\Calculadoras\C# calculadora logica\hbkhh\obj\Debug\hbkhh.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Projectos\Calculadoras\C# calculadora logica\hbkhh\obj\Debug\hbkhh.exe
+C:\Users\pc\Documents\Projectos\Calculadoras\C# calculadora logica\hbkhh\obj\Debug\hbkhh.pdb
